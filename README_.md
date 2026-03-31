@@ -1,4 +1,5 @@
-# SpringEcom Study Notes
+# SpringEcom 
+
 
 ## 1. Project overview
 This project is a Spring Boot ecommerce backend with a React frontend.
